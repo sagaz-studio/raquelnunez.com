@@ -56,9 +56,12 @@ const details: Record<string, { heading: string; intro: string; sections: { titl
     ],
   },
   '/contratos/': {
-    heading: 'Contratos en Cidra',
-    intro: 'Un acuerdo debe expresar con claridad lo que las partes quieren pactar. La oficina ofrece redacción y revisión de contratos civiles y comerciales, previa coordinación.',
+    heading: 'Redacción y revisión de contratos en Cidra',
+    intro: 'Antes de firmar un acuerdo, conviene entender qué se está pactando. La Lcda. Raquel Núñez Alicea ofrece redacción y revisión de contratos desde Cidra para personas y negocios de la zona central de Puerto Rico. Coordine una consulta sobre su proyecto, alquiler o transacción de propiedad.',
     sections: [
+      { title: 'Contratos de construcción y remodelación', text: 'Si va a contratar una obra o remodelación, puede coordinar la revisión del acuerdo antes de firmar o entregar un depósito. Revisamos el alcance de los trabajos, materiales, precio, calendario de pagos, plazos y cómo se documentarán los cambios. También redactamos acuerdos para contratistas que desean dejar claras las condiciones de sus proyectos con sus clientes.' },
+      { title: 'Contratos de arrendamiento', text: 'Si va a alquilar una propiedad, le ayudamos a preparar o revisar el contrato según el acuerdo que desea establecer. En la consulta podemos examinar la renta, el depósito, el término, el uso de la propiedad y las responsabilidades de mantenimiento. Traiga el borrador disponible y explique los puntos que le preocupan.' },
+      { title: 'Compraventas y opciones de compra', text: 'Si está considerando comprar o vender una propiedad, puede consultar sobre la redacción o revisión del acuerdo y de una opción de compra. Evaluamos las condiciones propuestas, depósitos, fechas y documentos disponibles. El alcance de la revisión contractual y cualquier servicio notarial se coordinan con la oficina según la transacción.' },
       { title: 'Explique el acuerdo que necesita', text: 'Indique el propósito del contrato, quiénes participan y cuáles son los puntos que desea atender. Si ya existe un borrador, coordine con la oficina cómo compartirlo para su revisión. El alcance del servicio y los honorarios se acuerdan según el asunto.' },
       { title: 'Revisión de contratos y orientación', text: 'Si necesita revisar un contrato antes de firmarlo o aclarar las obligaciones de un acuerdo, coordine una consulta. Podemos evaluar el documento y los asuntos legales relacionados. Para escrituras y poderes, consulte también nuestra página de servicios notariales.' },
       { title: 'Atención desde Cidra', text: 'Servimos a Cidra, Aibonito, Comerío, Barranquitas y Aguas Buenas. Llame para coordinar el servicio y confirmar disponibilidad. La consulta inicial gratuita anunciada en este sitio corresponde a casos de quiebra.' },
