@@ -2,7 +2,44 @@
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*/",
+      "has": [
+        {
+          "type": "host",
+          "value": "raquelnunez.com"
+        }
+      ],
+      "destination": "https://www.raquelnunez.com/:path*/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "raquelnunez.com"
+        }
+      ],
+      "destination": "https://www.raquelnunez.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy/",
+      "destination": "/politica-de-privacidad/",
+      "permanent": true
+    },
+    {
+      "source": "/terms-of-use/",
+      "destination": "/terminos-de-uso/",
+      "permanent": true
+    },
+    {
+      "source": "/accessibility/",
+      "destination": "/accesibilidad/",
+      "permanent": true
+    }
   ]
 }

@@ -1,20 +1,17 @@
-import { Route, Switch } from "wouter";
-import Home from "@/pages/Home";
-import PrivacyPolicy from "@/pages/PrivacyPolicy";
-import TermsOfUse from "@/pages/TermsOfUse";
-import Accessibility from "@/pages/Accessibility";
+import Home from '@/pages/Home';
+import PrivacyPolicy from '@/pages/PrivacyPolicy';
+import TermsOfUse from '@/pages/TermsOfUse';
+import Accessibility from '@/pages/Accessibility';
+import ServicePage from '@/pages/ServicePage';
+import { normalizePath, pages } from './seo';
 
-export default function App() {
-  return (
-    <Switch>
-      <Route path="/" component={Home} />
-      <Route path="/politica-de-privacidad" component={PrivacyPolicy} />
-      <Route path="/privacy-policy" component={PrivacyPolicy} />
-      <Route path="/terminos-de-uso" component={TermsOfUse} />
-      <Route path="/terms-of-use" component={TermsOfUse} />
-      <Route path="/accesibilidad" component={Accessibility} />
-      <Route path="/accessibility" component={Accessibility} />
-      <Route component={Home} />
-    </Switch>
-  );
+// Native links give each page a complete document and its own server-rendered metadata.
+export default function App({ path = window.location.pathname }: { path?: string }) {
+  const route = normalizePath(path);
+  if (route === '/') return <Home />;
+  if (route === '/politica-de-privacidad/' || route === '/privacy-policy/') return <PrivacyPolicy />;
+  if (route === '/terminos-de-uso/' || route === '/terms-of-use/') return <TermsOfUse />;
+  if (route === '/accesibilidad/' || route === '/accessibility/') return <Accessibility />;
+  if (pages[route]) return <ServicePage path={route} />;
+  return <main className="container service-content"><h1>Página no encontrada</h1><p>La dirección solicitada no existe.</p><a href="/">Volver al inicio</a> · <a href="/quiebras/">Orientación sobre quiebras</a></main>;
 }

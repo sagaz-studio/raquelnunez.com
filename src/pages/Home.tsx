@@ -15,10 +15,10 @@ const PHONE = "939-373-6637";
 const t = {
   es: {
     lang: "EN",
-    nav: ["Servicios", "Zona", "Blog", "FAQ", "Contacto"],
-    navIds: ["servicios", "zona", "blog", "faq", "contacto"],
+    nav: ["Quiebras", "Servicios", "Zona", "FAQ", "Contacto"],
+    navIds: ["/quiebras/", "#servicios", "#zona", "#faq", "#contacto"],
     badge: "Práctica Federal y Estatal · Puerto Rico",
-    heroTitle: "Derecho a la Solución.™",
+    heroTitle: "Abogada de quiebras en Cidra",
     heroSub: "Quiebras · Herencias · Escrituras · Contratos · Affidavits",
     heroCta: "Agendar Consulta",
     heroNote: "Consulta inicial gratuita en casos de quiebra",
@@ -71,7 +71,7 @@ const t = {
     zoneTitle: "La Zona Central,\nCubierta.",
     zoneSub: "No tiene que viajar a San Juan para obtener representación de primer nivel. Nuestra oficina en Cidra está estratégicamente posicionada para servir a toda la región central con la misma excelencia que los grandes despachos metropolitanos.",
     zoneCta: "Agendar Consulta",
-    municipalities: ["Cidra", "Aguas Buenas", "Cayey", "Comerío", "Aibonito"],
+    municipalities: ["Cidra", "Aibonito", "Comerío", "Barranquitas", "Aguas Buenas"],
     municipalityNotes: ["Sede de la Oficina", "", "", "", ""],
     blogLabel: "Recursos Legales",
     blogTitle: "De Interés\nLegal",
@@ -79,7 +79,7 @@ const t = {
       {
         tag: "Quiebras",
         title: "¿Qué ocurre con sus deudas al declararse en quiebra?",
-        excerpt: "La paralización automática detiene de inmediato las llamadas de cobro, las demandas y los embargos. Conozca exactamente qué deudas se eliminan y cuáles permanecen.",
+        excerpt: "La quiebra puede suspender gestiones de cobro y permitir el descargue de ciertas deudas. Conozca las alternativas y sus límites antes de decidir.",
         date: "Febrero 2026",
       },
       {
@@ -111,12 +111,12 @@ const t = {
         a: "Lunes a viernes de 9:00 am a 4:00 pm. Los sábados atendemos exclusivamente por cita previa. Puede comunicarse por WhatsApp en cualquier momento para coordinar.",
       },
       {
-        q: "¿Atienden clientes de Cayey, Comerío y otros municipios?",
-        a: "Sí. Nuestra oficina en Cidra sirve a toda la zona central: Aguas Buenas, Cayey, Comerío y Aibonito. No es necesario desplazarse a San Juan o Caguas.",
+        q: "¿Atienden clientes de Barranquitas, Comerío y otros municipios?",
+        a: "Sí. Nuestra oficina en Cidra sirve a toda la zona central: Aguas Buenas, Barranquitas, Comerío y Aibonito. No es necesario desplazarse a San Juan o Caguas.",
       },
       {
         q: "¿Qué diferencia hay entre Capítulo 7 y Capítulo 13?",
-        a: "El Capítulo 7 elimina la mayoría de las deudas no garantizadas en un proceso de 3 a 6 meses. El Capítulo 13 establece un plan de pago de 3 a 5 años que le permite conservar activos importantes. La Lcda. evalúa cuál es el más conveniente para su situación específica.",
+        a: "El Capítulo 7 puede permitir el descargue de ciertas deudas, sujeto a elegibilidad y exenciones; los bienes no exentos pueden liquidarse. El Capítulo 13 permite proponer un plan de pagos generalmente de tres a cinco años. Evaluamos ingresos, bienes y obligaciones antes de recomendar una alternativa.",
       },
       {
         q: "¿Practican ante el Tribunal Federal?",
@@ -142,10 +142,10 @@ const t = {
   },
   en: {
     lang: "ES",
-    nav: ["Services", "Coverage", "Blog", "FAQ", "Contact"],
-    navIds: ["servicios", "zona", "blog", "faq", "contacto"],
+    nav: ["Bankruptcy", "Services", "Coverage", "FAQ", "Contact"],
+    navIds: ["/quiebras/", "#servicios", "#zona", "#faq", "#contacto"],
     badge: "Federal & State Practice · Puerto Rico",
-    heroTitle: "Your Right to a Solution.™",
+    heroTitle: "Bankruptcy attorney in Cidra",
     heroSub: "Bankruptcy · Estates · Deeds · Contracts · Affidavits",
     heroCta: "Schedule Consultation",
     heroNote: "Free initial consultation for bankruptcy cases",
@@ -198,7 +198,7 @@ const t = {
     zoneTitle: "Central Puerto Rico,\nCovered.",
     zoneSub: "You don't need to travel to San Juan for top-tier legal representation. Our office in Cidra is strategically positioned to serve the entire central region with the same excellence as major metropolitan firms.",
     zoneCta: "Schedule Consultation",
-    municipalities: ["Cidra", "Aguas Buenas", "Cayey", "Comerío", "Aibonito"],
+    municipalities: ["Cidra", "Aibonito", "Comerío", "Barranquitas", "Aguas Buenas"],
     municipalityNotes: ["Main Office", "", "", "", ""],
     blogLabel: "Legal Resources",
     blogTitle: "Legal\nInsights",
@@ -238,12 +238,12 @@ const t = {
         a: "Monday through Friday, 9:00 am to 4:00 pm. Saturdays by appointment only. You can reach us via WhatsApp at any time to coordinate.",
       },
       {
-        q: "Do you serve clients from Cayey, Comerío, and other municipalities?",
-        a: "Yes. Our office in Cidra serves the entire central zone: Aguas Buenas, Cayey, Comerío, and Aibonito. There is no need to travel to San Juan or Caguas.",
+        q: "Do you serve clients from Barranquitas, Comerío, and other municipalities?",
+        a: "Yes. Our office in Cidra serves the entire central zone: Aguas Buenas, Barranquitas, Comerío, and Aibonito. There is no need to travel to San Juan or Caguas.",
       },
       {
         q: "What is the difference between Chapter 7 and Chapter 13?",
-        a: "Chapter 7 eliminates most unsecured debts in a 3 to 6 month process. Chapter 13 establishes a 3 to 5 year repayment plan that allows you to keep important assets. Lcda. evaluates which is most beneficial for your specific situation.",
+        a: "Chapter 7 may discharge certain debts, subject to eligibility and exemptions; nonexempt property may be sold. Chapter 13 involves a repayment plan generally lasting three to five years. We review your income, property and obligations before recommending an option.",
       },
       {
         q: "Do you practice before the Federal Court?",
@@ -268,7 +268,7 @@ const t = {
     footerFederal: "Admitted before the U.S. District Court for the District of Puerto Rico and the U.S. Bankruptcy Court for the District of Puerto Rico.",
   },
 };
-const LOGO_URL = "https://d2xsxph8kpxj0f.cloudfront.net/310519663377085449/Qc6KpWHRhp6so4DHNbkJ2s/raquel-logo_0998174b.png";
+const LOGO_URL = "/raquel-logo.png";
 // ─── Logo ──────────────────────────────────────────────────────────────────────
 function LogoMark({ size = 48 }: { size?: number; color?: string }) {
   return (
@@ -283,51 +283,19 @@ function LogoMark({ size = 48 }: { size?: number; color?: string }) {
 }
 // ─── Central PR SVG Map ────────────────────────────────────────────────────────
 function CentralPRMap({ lang }: { lang: "es" | "en" }) {
-  return (
-    <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" style={{ width: "100%", maxWidth: "480px" }}>
-      {/* Background */}
-      <rect width="400" height="300" fill="rgba(18,40,56,0.6)" rx="4" />
-      {/* Municipality shapes — stylized hexagonal regions */}
-      {/* Cidra — center, highlighted */}
-      <polygon points="200,120 230,105 230,135 200,150 170,135 170,105" fill="rgba(184,150,46,0.25)" stroke="#B8962E" strokeWidth="2" />
-      {/* Aguas Buenas — north */}
-      <polygon points="200,70 230,55 230,85 200,100 170,85 170,55" fill="rgba(245,240,232,0.06)" stroke="rgba(245,240,232,0.25)" strokeWidth="1.5" />
-      {/* Cayey — south */}
-      <polygon points="200,170 230,155 230,185 200,200 170,185 170,155" fill="rgba(245,240,232,0.06)" stroke="rgba(245,240,232,0.25)" strokeWidth="1.5" />
-      {/* Comerío — west */}
-      <polygon points="140,120 170,105 170,135 140,150 110,135 110,105" fill="rgba(245,240,232,0.06)" stroke="rgba(245,240,232,0.25)" strokeWidth="1.5" />
-      {/* Aibonito — east */}
-      <polygon points="260,120 290,105 290,135 260,150 230,135 230,105" fill="rgba(245,240,232,0.06)" stroke="rgba(245,240,232,0.25)" strokeWidth="1.5" />
-      {/* Connecting lines */}
-      <line x1="200" y1="100" x2="200" y2="120" stroke="rgba(184,150,46,0.4)" strokeWidth="1" strokeDasharray="3,3" />
-      <line x1="200" y1="150" x2="200" y2="170" stroke="rgba(184,150,46,0.4)" strokeWidth="1" strokeDasharray="3,3" />
-      <line x1="170" y1="120" x2="140" y2="120" stroke="rgba(184,150,46,0.4)" strokeWidth="1" strokeDasharray="3,3" />
-      <line x1="230" y1="120" x2="260" y2="120" stroke="rgba(184,150,46,0.4)" strokeWidth="1" strokeDasharray="3,3" />
-      {/* Labels */}
-      <text x="200" y="126" textAnchor="middle" fill="#B8962E" fontSize="10" fontFamily="'Cormorant Garamond', serif" fontWeight="700">Cidra</text>
-      <text x="200" y="138" textAnchor="middle" fill="#B8962E" fontSize="7.5" fontFamily="'EB Garamond', serif" opacity="0.8">{lang === "es" ? "Oficina" : "Office"}</text>
-      <text x="200" y="72" textAnchor="middle" fill="rgba(245,240,232,0.8)" fontSize="9" fontFamily="'Cormorant Garamond', serif">Aguas</text>
-      <text x="200" y="83" textAnchor="middle" fill="rgba(245,240,232,0.8)" fontSize="9" fontFamily="'Cormorant Garamond', serif">Buenas</text>
-      <text x="200" y="180" textAnchor="middle" fill="rgba(245,240,232,0.8)" fontSize="9" fontFamily="'Cormorant Garamond', serif">Cayey</text>
-      <text x="125" y="124" textAnchor="middle" fill="rgba(245,240,232,0.8)" fontSize="9" fontFamily="'Cormorant Garamond', serif">Comerío</text>
-      <text x="260" y="124" textAnchor="middle" fill="rgba(245,240,232,0.8)" fontSize="9" fontFamily="'Cormorant Garamond', serif">Aibonito</text>
-      {/* Center dot */}
-      <circle cx="200" cy="128" r="3" fill="#B8962E" />
-      {/* Legend */}
-      <rect x="20" y="250" width="12" height="12" fill="rgba(184,150,46,0.25)" stroke="#B8962E" strokeWidth="1.5" />
-      <text x="38" y="260" fill="rgba(245,240,232,0.7)" fontSize="9" fontFamily="'EB Garamond', serif">{lang === "es" ? "Sede principal" : "Main office"}</text>
-      <rect x="130" y="250" width="12" height="12" fill="rgba(245,240,232,0.06)" stroke="rgba(245,240,232,0.25)" strokeWidth="1.5" />
-      <text x="148" y="260" fill="rgba(245,240,232,0.7)" fontSize="9" fontFamily="'EB Garamond', serif">{lang === "es" ? "Municipios servidos" : "Served municipalities"}</text>
-      <text x="200" y="285" textAnchor="middle" fill="rgba(245,240,232,0.3)" fontSize="8" fontFamily="'EB Garamond', serif" letterSpacing="0.15em">PUERTO RICO — ZONA CENTRAL</text>
-    </svg>
-  );
+  return <div style={{ border: "1px solid rgba(184,150,46,.4)", padding: "2rem" }}>
+    <h3 style={{ fontSize: "2rem", marginBottom: "1rem" }}>{lang === "es" ? "Nuestra oficina está en Cidra" : "Our office is in Cidra"}</h3>
+    <p>{lang === "es" ? "Atendemos a la zona central de Puerto Rico:" : "Serving central Puerto Rico:"}</p>
+    <ul style={{ marginTop: "1rem", lineHeight: 2.2 }}>{["Cidra", "Aibonito", "Comerío", "Barranquitas", "Aguas Buenas"].map(name => <li key={name}>{name}</li>)}</ul>
+  </div>;
 }
 // ─── Navbar ────────────────────────────────────────────────────────────────────
 function Navbar({ scrolled, lang, setLang }: { scrolled: boolean; lang: "es" | "en"; setLang: (l: "es" | "en") => void }) {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+  const [isMobile, setIsMobile] = useState(false);
   useEffect(() => {
     const onResize = () => setIsMobile(window.innerWidth < 768);
+    onResize();
     window.addEventListener("resize", onResize);
     return () => window.removeEventListener("resize", onResize);
   }, []);
@@ -368,7 +336,7 @@ function Navbar({ scrolled, lang, setLang }: { scrolled: boolean; lang: "es" | "
           {!isMobile && (
             <div style={{ display: "flex", alignItems: "center", gap: "1.5rem" }}>
               {tx.nav.map((item, i) => (
-                <a key={item} href={`#${tx.navIds[i]}`}
+                <a key={item} href={tx.navIds[i]}
                   style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.82rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#F5F0E8", opacity: 0.8, transition: "all 0.2s", whiteSpace: "nowrap", textDecoration: "none" }}
                   onMouseEnter={(e) => { (e.target as HTMLElement).style.color = "#B8962E"; (e.target as HTMLElement).style.opacity = "1"; }}
                   onMouseLeave={(e) => { (e.target as HTMLElement).style.color = "#F5F0E8"; (e.target as HTMLElement).style.opacity = "0.8"; }}
@@ -403,7 +371,7 @@ function Navbar({ scrolled, lang, setLang }: { scrolled: boolean; lang: "es" | "
         {isMobile && menuOpen && (
           <div style={{ background: "rgba(27,58,75,0.98)", borderTop: "1px solid rgba(184,150,46,0.2)", padding: "1.5rem 0" }}>
             {tx.nav.map((item, i) => (
-              <a key={item} href={`#${tx.navIds[i]}`} onClick={() => setMenuOpen(false)}
+              <a key={item} href={tx.navIds[i]} onClick={() => setMenuOpen(false)}
                 style={{ display: "block", fontFamily: "'EB Garamond', serif", fontSize: "1.1rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#F5F0E8", padding: "0.75rem 0", borderBottom: "1px solid rgba(184,150,46,0.1)", textDecoration: "none" }}>
                 {item}
               </a>
@@ -423,8 +391,8 @@ function Navbar({ scrolled, lang, setLang }: { scrolled: boolean; lang: "es" | "
 function Hero({ lang }: { lang: "es" | "en" }) {
   const tx = t[lang];
   return (
-    <section id="inicio" role="main" aria-label={lang === "es" ? "Inicio" : "Home"} style={{ minHeight: "100vh", position: "relative", display: "flex", alignItems: "center", overflow: "hidden", WebkitOverflowScrolling: "touch" }}>
-      <div id="main-content" tabIndex={-1} style={{ position: "absolute", top: 0 }} />
+    <section id="inicio" aria-label={lang === "es" ? "Inicio" : "Home"} style={{ minHeight: "100vh", position: "relative", display: "flex", alignItems: "center", overflow: "hidden", WebkitOverflowScrolling: "touch" }}>
+
       <div style={{ position: "absolute", inset: 0, backgroundImage: `url(${HERO_BG})`, backgroundSize: "cover", backgroundPosition: "center", filter: "brightness(0.4)" }} />
       <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to right, rgba(27,58,75,0.95) 0%, rgba(27,58,75,0.65) 55%, rgba(27,58,75,0.25) 100%)" }} />
       <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, height: "200px", background: "linear-gradient(to top, #1B3A4B, transparent)" }} />
@@ -434,14 +402,14 @@ function Hero({ lang }: { lang: "es" | "en" }) {
           <span style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.7rem", letterSpacing: "0.08em", textTransform: "uppercase", color: "#B8962E", wordBreak: "break-word", overflowWrap: "break-word" }}>{tx.badge}</span>
         </div>
         <h1 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "clamp(2.2rem, 7vw, 5.5rem)", fontWeight: 600, color: "#F5F0E8", lineHeight: 1.05, marginBottom: "1.5rem", maxWidth: "min(700px, 100%)" }}>
-          {tx.heroTitle.replace("™", "")}<sup style={{ fontSize: "0.3em", verticalAlign: "super", color: "rgba(184,150,46,0.8)", fontWeight: 400 }}>™</sup>
+          {tx.heroTitle}
         </h1>
         <div style={{ display: "flex", alignItems: "flex-start", gap: "1rem", marginBottom: "2.5rem", maxWidth: "100%" }}>
           <span style={{ display: "block", width: "40px", minWidth: "40px", height: "1px", background: "#B8962E", marginTop: "0.75rem", flexShrink: 0 }} />
           <div style={{ fontFamily: "'EB Garamond', serif", fontSize: "1rem", color: "#F5F0E8", opacity: 0.75, letterSpacing: "0.04em", lineHeight: 1.7 }}>
-            <span>{lang === "es" ? "Quiebras · Herencias · Escrituras" : "Bankruptcy · Estates · Deeds"}</span>
+            <span>{lang === "es" ? "Capítulo 7 y Capítulo 13 · Zona central de Puerto Rico" : "Chapter 7 and Chapter 13 · Central Puerto Rico"}</span>
             <br />
-            <span>{lang === "es" ? "Contratos · Affidavits" : "Contracts · Affidavits"}</span>
+            <span>Cidra · Aibonito · Comerío · Barranquitas · Aguas Buenas</span>
           </div>
         </div>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem", marginBottom: "2rem" }}>
@@ -531,6 +499,7 @@ function Services({ lang }: { lang: "es" | "en" }) {
                 >
                   <div style={{ padding: "1.5rem 1rem 2rem", borderTop: "1px solid rgba(184,150,46,0.15)" }}>
                     <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "1.05rem", color: "#F5F0E8", opacity: 0.8, lineHeight: 1.8, marginBottom: "1.5rem" }}>{svc.desc}</p>
+                    <a className="service-detail-link" href={["/quiebras/", "/herencias/", "/notaria-escrituras/", "/contratos/"][idx]}>{lang === "es" ? "Conocer el servicio" : "View service"} →</a>
                     <ul style={{ listStyle: "none", padding: 0, margin: 0, display: "flex", flexDirection: "column", gap: "0.4rem" }}>
                       {svc.points.map((pt) => (
                         <li key={pt} style={{ display: "flex", alignItems: "flex-start", gap: "0.6rem", fontFamily: "'EB Garamond', serif", fontSize: "0.95rem", color: "#F5F0E8", opacity: 0.7, lineHeight: 1.6 }}>
@@ -647,13 +616,13 @@ function Blog({ lang }: { lang: "es" | "en" }) {
               <div style={{ padding: "2rem" }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "1rem" }}>
                   <span style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.7rem", letterSpacing: "0.18em", textTransform: "uppercase", color: "#B8962E", background: "rgba(184,150,46,0.1)", padding: "0.2rem 0.7rem" }}>{post.tag}</span>
-                  <span style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.8rem", color: "#1B3A4B", opacity: 0.45 }}>{post.date}</span>
+                  <span style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.8rem", color: "#1B3A4B", opacity: 0.45 }}>{lang === "es" ? "Guía de orientación" : "Service guide"}</span>
                 </div>
                 <h3 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "1.35rem", fontWeight: 600, color: "#1B3A4B", lineHeight: 1.3, marginBottom: "0.75rem" }}>{post.title}</h3>
                 <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.95rem", color: "#1B3A4B", opacity: 0.7, lineHeight: 1.7, marginBottom: "1.5rem" }}>{post.excerpt}</p>
-                <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer"
+                <a href={["/quiebras/", "/herencias/", "/notaria-escrituras/"][i]}
                   style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.82rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#1B3A4B", borderBottom: "1px solid #B8962E", paddingBottom: "2px" }}>
-                  {lang === "es" ? "Consultar →" : "Inquire →"}
+                  {lang === "es" ? "Leer más →" : "Read more →"}
                 </a>
               </div>
             </article>
@@ -773,13 +742,13 @@ function Footer({ lang }: { lang: "es" | "en" }) {
           </nav>
         </div>
         <nav aria-label={lang === "es" ? "Enlaces legales" : "Legal links"} style={{ display: "flex", justifyContent: "center", gap: "2rem", flexWrap: "wrap", marginBottom: "1.5rem" }}>
-          <a href="/politica-de-privacidad" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
+          <a href="/politica-de-privacidad/" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
             {lang === "es" ? "Política de Privacidad" : "Privacy Policy"}
           </a>
-          <a href="/terminos-de-uso" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
+          <a href="/terminos-de-uso/" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
             {lang === "es" ? "Términos de Uso" : "Terms of Use"}
           </a>
-          <a href="/accesibilidad" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
+          <a href="/accesibilidad/" style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.78rem", letterSpacing: "0.1em", color: "#B8962E", opacity: 0.75, textDecoration: "none", borderBottom: "1px solid rgba(184,150,46,0.3)" }}>
             {lang === "es" ? "Accesibilidad (ADA)" : "Accessibility (ADA)"}
           </a>
         </nav>
@@ -814,6 +783,15 @@ function Footer({ lang }: { lang: "es" | "en" }) {
     </footer>
   );
 }
+function BankruptcyIntro({ lang }: { lang: "es" | "en" }) {
+  return <section className="section-pad bankruptcy-intro"><div className="container">
+    <span className="section-label">{lang === "es" ? "Derecho a la Solución.™" : "Your Right to a Solution.™"}</span>
+    <h2>{lang === "es" ? "Orientación sobre quiebras cerca de usted" : "Bankruptcy guidance close to home"}</h2>
+    <p>{lang === "es" ? "Si las deudas y los cobros le preocupan, el primer paso es entender sus opciones. La Lcda. Raquel Núñez Alicea ofrece orientación y representación en quiebras desde Cidra para personas de Aibonito, Comerío, Barranquitas y Aguas Buenas. En la consulta inicial revisamos su situación y explicamos qué información hace falta para evaluar su caso." : "If debts and collection notices are causing concern, start by understanding your options. Attorney Raquel Núñez Alicea provides bankruptcy guidance and representation from Cidra for clients in Aibonito, Comerío, Barranquitas and Aguas Buenas. We review your circumstances and explain what information is needed to evaluate your case."}</p>
+    <p>{lang === "es" ? "No todas las deudas ni todas las situaciones reciben el mismo tratamiento. Antes de presentar una petición, evaluamos sus ingresos, gastos, bienes y obligaciones. La consulta inicial de quiebras es gratuita; la representación y los costos del proceso se discuten por separado." : "Not every debt or situation receives the same treatment. Before filing, we evaluate your income, expenses, property and obligations. The initial bankruptcy consultation is free; representation and case costs are discussed separately."}</p>
+    <div className="seo-links"><a href="/quiebras/">{lang === "es" ? "Quiebras en la zona central" : "Bankruptcy in central Puerto Rico"}</a><a href="/quiebras/capitulo-7/">{lang === "es" ? "Capítulo 7" : "Chapter 7"}</a><a href="/quiebras/capitulo-13/">{lang === "es" ? "Capítulo 13" : "Chapter 13"}</a></div>
+  </div></section>;
+}
 // ─── Main Export ───────────────────────────────────────────────────────────────
 export default function Home() {
   const [scrolled, setScrolled] = useState(false);
@@ -823,6 +801,7 @@ export default function Home() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+  useEffect(() => { document.documentElement.lang = lang; }, [lang]);
   return (
     <div style={{ background: "#1B3A4B" }}>
       <a
@@ -847,13 +826,16 @@ export default function Home() {
         {lang === "es" ? "Saltar al contenido principal" : "Skip to main content"}
       </a>
       <Navbar scrolled={scrolled} lang={lang} setLang={setLang} />
+      <main id="main-content" tabIndex={-1}>
       <Hero lang={lang} />
+      <BankruptcyIntro lang={lang} />
       <Services lang={lang} />
       <About lang={lang} />
       <CoverageZone lang={lang} />
       <Blog lang={lang} />
       <FAQ lang={lang} />
       <Contact lang={lang} />
+      </main>
       <Footer lang={lang} />
       <CookieConsent lang={lang} />
     </div>

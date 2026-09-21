@@ -76,7 +76,7 @@ export default function CookieConsent({ lang }: { lang: "es" | "en" }) {
           {lang === "es" ? "Aceptar" : "Accept"}
         </button>
         <a
-          href="/politica-de-privacidad"
+          href="/politica-de-privacidad/"
           style={{
             fontFamily: "'EB Garamond', serif",
             fontSize: "0.78rem",

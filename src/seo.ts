@@ -1,0 +1,43 @@
+export const origin = 'https://www.raquelnunez.com';
+export const municipalities = ['Cidra', 'Aibonito', 'Comerío', 'Barranquitas', 'Aguas Buenas'];
+export const pages: Record<string, { title: string; description: string; label: string }> = {
+  '/': { title: 'Abogada de Quiebras en Cidra | Raquel Núñez', description: 'Quiebras Capítulo 7 y 13 desde Cidra para Aibonito, Comerío, Barranquitas y Aguas Buenas. Zona central de Puerto Rico. Consulta inicial gratuita.', label: 'Inicio' },
+  '/quiebras/': { title: 'Quiebras en la Zona Central de PR | Raquel Núñez', description: 'Evalúe sus opciones de quiebra desde Cidra. Orientación sobre Capítulo 7 y 13 para la zona central de Puerto Rico. Consulta inicial gratuita.', label: 'Quiebras' },
+  '/quiebras/capitulo-7/': { title: 'Quiebra Capítulo 7 en Puerto Rico | Raquel Núñez', description: 'Conozca la quiebra Capítulo 7, sus límites y qué preparar para una evaluación. Abogada en Cidra para la zona central. Consulta inicial gratuita.', label: 'Capítulo 7' },
+  '/quiebras/capitulo-13/': { title: 'Quiebra Capítulo 13 en Puerto Rico | Raquel Núñez', description: 'Orientación sobre planes de pago bajo el Capítulo 13. Evaluación de ingresos, deudas y atrasos desde Cidra para la zona central de Puerto Rico.', label: 'Capítulo 13' },
+  '/herencias/': { title: 'Herencias en Cidra y Zona Central | Raquel Núñez', description: 'Orientación sobre herencias, declaratorias de herederos y testamentos desde Cidra para Aibonito, Comerío, Barranquitas y Aguas Buenas.', label: 'Herencias' },
+  '/notaria-escrituras/': { title: 'Notaría y Escrituras en Cidra | Raquel Núñez', description: 'Servicios notariales en Cidra: escrituras, poderes y compraventas. Atención para la zona central de Puerto Rico. Coordine su cita.', label: 'Notaría y Escrituras' },
+  '/contratos/': { title: 'Contratos y Affidavits en Cidra | Raquel Núñez', description: 'Redacción y revisión de contratos civiles y comerciales, y declaraciones juradas en Cidra. Servicios para la zona central de Puerto Rico.', label: 'Contratos y Affidavits' },
+  '/politica-de-privacidad/': { title: 'Política de privacidad | Raquel Núñez', description: 'Política de privacidad de la Oficina Legal y Notarial de la Lcda. Raquel Núñez Alicea en Cidra, Puerto Rico.', label: 'Política de privacidad' },
+  '/terminos-de-uso/': { title: 'Términos de uso | Raquel Núñez', description: 'Términos de uso e información sobre el sitio de la Oficina Legal y Notarial de la Lcda. Raquel Núñez Alicea.', label: 'Términos de uso' },
+  '/accesibilidad/': { title: 'Accesibilidad | Raquel Núñez', description: 'Información de accesibilidad y asistencia para utilizar el sitio de la Oficina Legal y Notarial de la Lcda. Raquel Núñez Alicea.', label: 'Accesibilidad' },
+};
+export const normalizePath = (path: string) => path === '/' ? '/' : `${path.replace(/\/+$/, '')}/`;
+const escape = (value: string) => value.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+export function seoHead(path: string) {
+  const page = pages[path];
+  if (!page) return '<title>Página no encontrada | Raquel Núñez</title><meta name="robots" content="noindex,follow" />';
+  const url = origin + path;
+  const graph: Record<string, unknown>[] = [
+    { '@type': 'LegalService', '@id': `${origin}/#office`, name: 'Lcda. Raquel Núñez Alicea — Oficina Legal y Notarial', url: origin + '/', image: origin + '/raquel-profesional.jpg', telephone: '+1-939-373-6637', email: 'legal@raquelnunez.com', address: { '@type': 'PostalAddress', streetAddress: 'Calle Antonio R. Barceló', addressLocality: 'Cidra', addressRegion: 'PR', postalCode: '00739', addressCountry: 'US' }, areaServed: municipalities.map(name => ({ '@type': 'City', name: `${name}, Puerto Rico` })), openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '09:00', closes: '16:00' }], hasOfferCatalog: { '@type': 'OfferCatalog', name: 'Servicios legales', itemListElement: ['/quiebras/', '/herencias/', '/notaria-escrituras/', '/contratos/'].map(route => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', name: pages[route].label, url: origin + route } })) } },
+    { '@type': 'WebSite', '@id': `${origin}/#website`, url: origin + '/', name: 'Lcda. Raquel Núñez Alicea', inLanguage: 'es-PR', publisher: { '@id': `${origin}/#office` } },
+    { '@type': 'WebPage', '@id': url + '#webpage', url, name: page.title, description: page.description, inLanguage: 'es-PR', isPartOf: { '@id': `${origin}/#website` }, about: { '@id': `${origin}/#office` } },
+  ];
+  if (path !== '/') {
+    const crumbs = [{ name: 'Inicio', item: origin + '/' }];
+    if (path.startsWith('/quiebras/')) crumbs.push({ name: 'Quiebras', item: origin + '/quiebras/' });
+    if (path !== '/quiebras/') crumbs.push({ name: page.label, item: url });
+    graph.push({ '@type': 'BreadcrumbList', itemListElement: crumbs.map((crumb, i) => ({ '@type': 'ListItem', position: i + 1, ...crumb })) });
+  }
+  return `<title>${escape(page.title)}</title>
+<meta name="description" content="${escape(page.description)}" />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="${url}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="${url}" />
+<meta property="og:title" content="${escape(page.title)}" />
+<meta property="og:description" content="${escape(page.description)}" />
+<meta property="og:locale" content="es_PR" />
+<meta property="og:image" content="${origin}/raquel-profesional.jpg" />
+<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replace(/</g, '\\u003c')}</script>`;
+}
