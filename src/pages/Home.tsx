@@ -19,7 +19,7 @@ const t = {
     navIds: ["/quiebras/", "#servicios", "#zona", "#faq", "#contacto"],
     badge: "Práctica Federal y Estatal · Puerto Rico",
     heroTitle: "Abogada de quiebras en Cidra",
-    heroSub: "Quiebras · Herencias · Escrituras · Contratos · Affidavits",
+    heroSub: "Quiebras · Herencias · Escrituras · Contratos",
     heroCta: "Agendar Consulta",
     heroNote: "Consulta inicial gratuita en casos de quiebra",
     heroWalkin: "",
@@ -52,10 +52,10 @@ const t = {
       },
       {
         num: "04",
-        title: "Contratos y Affidavits",
+        title: "Contratos",
         subtitle: "Notaría · Contratos",
-        desc: "Redacción y otorgamiento de contratos civiles y mercantiles, así como declaraciones juradas ante notario. Servicio disponible previa coordinación con nuestra oficina.",
-        points: ["Contratos civiles y comerciales", "Declaraciones juradas (affidavits)", "Poderes notariales simples", "Llame para coordinar"],
+        desc: "Redacción y revisión de contratos civiles y comerciales. Evaluamos su acuerdo y le orientamos sobre los asuntos legales relacionados, previa coordinación con nuestra oficina.",
+        points: ["Contratos civiles y comerciales", "Revisión de acuerdos", "Orientación sobre obligaciones y condiciones", "Llame para coordinar una cita"],
         free: false,
       },
     ],
@@ -104,11 +104,11 @@ const t = {
       },
       {
         q: "¿Necesito cita para visitar la oficina?",
-        a: "Las consultas con la Lcda. Núñez Alicea se realizan por cita previa, incluyendo los sábados. Para contratos sencillos y affidavits, aceptamos walk-in durante el horario regular de oficina.",
+        a: "Coordine su cita antes de visitar la oficina. Atendemos llamadas de 8:00 a. m. a 5:00 p. m. para coordinar citas. Los viernes atendemos únicamente por cita previa.",
       },
       {
         q: "¿Cuál es el horario de la oficina?",
-        a: "Lunes a viernes de 9:00 am a 4:00 pm. Los sábados atendemos exclusivamente por cita previa. Puede comunicarse por WhatsApp en cualquier momento para coordinar.",
+        a: "Atención en oficina: lunes, martes y miércoles de 9:30 a. m. a 3:00 p. m. Jueves: oficina cerrada por vistas o asuntos administrativos. Viernes: atención únicamente por cita previa, por asuntos administrativos. Atendemos llamadas de 8:00 a. m. a 5:00 p. m. para coordinar citas.",
       },
       {
         q: "¿Atienden clientes de Barranquitas, Comerío y otros municipios?",
@@ -130,7 +130,7 @@ const t = {
       { label: "WhatsApp", value: "939-373-6637" },
       { label: "Teléfono", value: "939-373-6637" },
       { label: "Dirección", value: "Calle Antonio R. Barceló\nCidra, PR 00739" },
-      { label: "Horario", value: "Lun–Vie 9:00am–4:00pm\nSáb por cita previa" },
+      { label: "Horario", value: "Lun–Mié 9:30 a. m.–3:00 p. m.\nJue: oficina cerrada\nVie: solo por cita" },
     ],
     whatsappCta: "Escribir por WhatsApp",
     footerRights: "Todos los derechos reservados.",
@@ -146,7 +146,7 @@ const t = {
     navIds: ["/quiebras/", "#servicios", "#zona", "#faq", "#contacto"],
     badge: "Federal & State Practice · Puerto Rico",
     heroTitle: "Bankruptcy attorney in Cidra",
-    heroSub: "Bankruptcy · Estates · Deeds · Contracts · Affidavits",
+    heroSub: "Bankruptcy · Estates · Deeds · Contracts",
     heroCta: "Schedule Consultation",
     heroNote: "Free initial consultation for bankruptcy cases",
     heroWalkin: "",
@@ -179,10 +179,10 @@ const t = {
       },
       {
         num: "04",
-        title: "Contracts & Affidavits",
+        title: "Contracts",
         subtitle: "Notarial · Contracts",
-        desc: "Drafting and execution of civil and commercial contracts, as well as sworn declarations before a notary. Service available by prior coordination with our office.",
-        points: ["Civil and commercial contracts", "Sworn declarations (affidavits)", "Simple notarial powers", "Call to schedule"],
+        desc: "Drafting and review of civil and commercial contracts. We evaluate your agreement and provide guidance on related legal matters, by prior arrangement with our office.",
+        points: ["Civil and commercial contracts", "Agreement review", "Guidance on obligations and terms", "Call to schedule an appointment"],
         free: false,
       },
     ],
@@ -231,11 +231,11 @@ const t = {
       },
       {
         q: "Do I need an appointment to visit the office?",
-        a: "Consultations with Lcda. Núñez Alicea are by appointment only, including Saturdays. For simple contracts and affidavits, we accept walk-ins during regular office hours.",
+        a: "Please coordinate your appointment before visiting the office. We answer calls from 8:00 a.m. to 5:00 p.m. to schedule appointments. Fridays are by appointment only.",
       },
       {
         q: "What are the office hours?",
-        a: "Monday through Friday, 9:00 am to 4:00 pm. Saturdays by appointment only. You can reach us via WhatsApp at any time to coordinate.",
+        a: "Office hours: Monday, Tuesday and Wednesday, 9:30 a.m. to 3:00 p.m. Thursday: office closed for hearings or administrative matters. Friday: by appointment only due to administrative work. We answer calls from 8:00 a.m. to 5:00 p.m. to schedule appointments.",
       },
       {
         q: "Do you serve clients from Barranquitas, Comerío, and other municipalities?",
@@ -257,7 +257,7 @@ const t = {
       { label: "WhatsApp", value: "939-373-6637" },
       { label: "Phone", value: "939-373-6637" },
       { label: "Address", value: "Calle Antonio R. Barceló\nCidra, PR 00739" },
-      { label: "Hours", value: "Mon–Fri 9:00am–4:00pm\nSat by appointment" },
+      { label: "Hours", value: "Mon–Wed 9:30 a.m.–3:00 p.m.\nThu: office closed\nFri: by appointment only" },
     ],
     whatsappCta: "Message on WhatsApp",
     footerRights: "All rights reserved.",
@@ -693,6 +693,7 @@ function Contact({ lang }: { lang: "es" | "en" }) {
           <span className="gold-divider" style={{ margin: "1.5rem auto" }} />
           <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "1.1rem", color: "#F5F0E8", opacity: 0.7, maxWidth: "480px", margin: "0 auto" }}>{tx.contactSub}</p>
         </div>
+        <p style={{ textAlign: "center", margin: "0 auto 2rem", maxWidth: "700px" }}>{lang === "es" ? "Atendemos llamadas de 8:00 a. m. a 5:00 p. m. para coordinar citas. Jueves: oficina cerrada por vistas o asuntos administrativos. Viernes: solo por cita previa, por asuntos administrativos." : "We answer calls from 8:00 a.m. to 5:00 p.m. to schedule appointments. Thursday: office closed for hearings or administrative matters. Friday: by appointment only due to administrative work."}</p>
         <div className="contact-grid" style={{ maxWidth: "900px", margin: "0 auto 3rem" }}>
           {tx.contactItems.map((item, i) => (
             <div key={item.label} style={{ background: "rgba(255,255,255,0.04)", border: "1px solid rgba(184,150,46,0.15)", padding: "2rem 1.5rem", textAlign: "center" }}>

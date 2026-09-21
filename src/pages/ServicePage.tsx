@@ -52,15 +52,15 @@ const details: Record<string, { heading: string; intro: string; sections: { titl
     sections: [
       { title: 'Escrituras y poderes', text: 'La oficina atiende consultas relacionadas con compraventas, hipotecas, poderes, segregaciones y consolidaciones. Cada instrumento requiere una evaluación propia; al coordinar su cita, explique el propósito del trámite y qué documentos tiene.' },
       { title: 'Una cita preparada', text: 'Confirme con la oficina quiénes deben comparecer y cuáles son los documentos necesarios para el asunto particular. También puede consultar sobre honorarios y coordinación antes de fijar la fecha. No todos los instrumentos pueden prepararse en una sola visita.' },
-      { title: 'Servicio para la zona central', text: 'Nuestra sede está en Cidra y atiende a Aibonito, Comerío, Barranquitas y Aguas Buenas. Para contratos y declaraciones juradas, visite la página de Contratos y Affidavits o comuníquese con la oficina.' },
+      { title: 'Servicio para la zona central', text: 'Nuestra sede está en Cidra y atiende a Aibonito, Comerío, Barranquitas y Aguas Buenas. Para redacción y revisión de acuerdos, visite la página de Contratos o comuníquese con la oficina.' },
     ],
   },
   '/contratos/': {
-    heading: 'Contratos y affidavits en Cidra',
-    intro: 'Un acuerdo debe expresar con claridad lo que las partes quieren pactar. La oficina ofrece redacción y revisión de contratos civiles y comerciales, además de servicios de declaraciones juradas, previa coordinación.',
+    heading: 'Contratos en Cidra',
+    intro: 'Un acuerdo debe expresar con claridad lo que las partes quieren pactar. La oficina ofrece redacción y revisión de contratos civiles y comerciales, previa coordinación.',
     sections: [
       { title: 'Explique el acuerdo que necesita', text: 'Indique el propósito del contrato, quiénes participan y cuáles son los puntos que desea atender. Si ya existe un borrador, coordine con la oficina cómo compartirlo para su revisión. El alcance del servicio y los honorarios se acuerdan según el asunto.' },
-      { title: 'Declaraciones juradas y otros documentos', text: 'Antes de acudir para un affidavit, explique qué entidad solicita el documento y confirme con la oficina los requisitos de identificación y comparecencia. Para escrituras y poderes, consulte también nuestra página de servicios notariales.' },
+      { title: 'Revisión de contratos y orientación', text: 'Si necesita revisar un contrato antes de firmarlo o aclarar las obligaciones de un acuerdo, coordine una consulta. Podemos evaluar el documento y los asuntos legales relacionados. Para escrituras y poderes, consulte también nuestra página de servicios notariales.' },
       { title: 'Atención desde Cidra', text: 'Servimos a Cidra, Aibonito, Comerío, Barranquitas y Aguas Buenas. Llame para coordinar el servicio y confirmar disponibilidad. La consulta inicial gratuita anunciada en este sitio corresponde a casos de quiebra.' },
     ],
   },
@@ -81,7 +81,7 @@ export default function ServicePage({ path }: { path: string }) {
         <section><h2>Preguntas frecuentes</h2><h3>¿La consulta inicial tiene costo?</h3><p>La consulta inicial de quiebras es gratuita. Los honorarios de representación y costos del proceso se discuten por separado.</p><h3>¿Dónde está la oficina?</h3><p>En la Calle Antonio R. Barceló, Cidra, PR 00739. Atendemos a Cidra, Aibonito, Comerío, Barranquitas y Aguas Buenas. Llame al <a href="tel:+19393736637">939-373-6637</a> para coordinar.</p></section>
         <section><h2>Información oficial</h2><p>Puede ampliar esta orientación en las guías de los tribunales federales: <a href={court7}>Capítulo 7</a> y <a href={court13}>Capítulo 13</a> (en inglés). El contenido de esta página es general y no sustituye la evaluación de su caso.</p></section>
       </>}
-      <section className="service-callout"><h2>Conversemos sobre su situación</h2><p>Lunes a viernes, 9:00 a. m. a 4:00 p. m. Sábados por cita previa.</p><p><a href="tel:+19393736637">939-373-6637</a> · <a href={whatsapp}>Coordinar por WhatsApp</a></p></section>
+      <section className="service-callout"><h2>Conversemos sobre su situación</h2><p>Atención en oficina: lunes, martes y miércoles de 9:30 a. m. a 3:00 p. m.</p><p>Jueves: oficina cerrada por vistas o asuntos administrativos. Viernes: atención únicamente por cita previa, por asuntos administrativos.</p><p>Atendemos llamadas de 8:00 a. m. a 5:00 p. m. para coordinar citas.</p><p><a href="tel:+19393736637">939-373-6637</a> · <a href={whatsapp}>Coordinar por WhatsApp</a></p></section>
       <nav className="related-services" aria-label="Servicios relacionados"><h2>Explore nuestros servicios</h2><div className="seo-links">{services.filter(route => route !== path).map(route => <a key={route} href={route}>{pages[route].label}</a>)}</div></nav>
     </main>
     <footer className="container service-footer"><p>Lcda. Raquel Núñez Alicea · Núm. de Licencia TSPR: 17881 · Publicidad Legal</p><p>Este sitio ofrece información general y no constituye asesoramiento legal. La comunicación no establece una relación abogado-cliente. Los resultados dependen de las circunstancias de cada caso.</p><p>Somos una agencia de alivio de deudas. Ayudamos a personas a solicitar protección por quiebra bajo el Código de Quiebras de los Estados Unidos.</p><p><a href="/politica-de-privacidad/">Privacidad</a> · <a href="/terminos-de-uso/">Términos de uso</a> · <a href="/accesibilidad/">Accesibilidad</a></p></footer>
