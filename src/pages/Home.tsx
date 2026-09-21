@@ -319,7 +319,7 @@ function Navbar({ scrolled, lang, setLang }: { scrolled: boolean; lang: "es" | "
             <LogoMark size={isMobile ? 36 : 44} />
             {isMobile ? (
               <div style={{ fontFamily: "'Cormorant Garamond', serif", fontWeight: 600, fontSize: "0.95rem", color: "#F5F0E8", lineHeight: 1.15, letterSpacing: "0.01em", whiteSpace: "nowrap" }}>
-                Raquel Núñez
+                Lcda. Raquel Núñez
               </div>
             ) : (
               <div>
