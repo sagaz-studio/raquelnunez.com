@@ -45,9 +45,7 @@ Para analizar un vehículo, normalmente se revisan:
 - La capacidad para continuar pagando.
 - Las opciones disponibles bajo el capítulo correspondiente.
 
-Si existe una amenaza de reposición o el vehículo ya fue reposeído, debe informarlo al coordinar la consulta. Las fechas y actuaciones previas pueden cambiar las alternativas disponibles.
-
-También pueden existir gravámenes relacionados con sentencias de cobro, incluso sobre vehículos que ya estaban pagos. Algunas personas se enteran cuando intentan vender, traspasar o realizar un trámite en CESCO. Si el automóvil es uno de los pocos bienes que posee, esa anotación puede generar mucho temor. Es importante obtener evidencia del gravamen y de la sentencia para identificar al acreedor, la cantidad reclamada y las alternativas que pueden evaluarse.
+También pueden existir gravámenes relacionados con sentencias por otras deudas, incluso sobre vehículos que ya estaban pagos. Algunas personas se enteran cuando intentan vender, traspasar o realizar un trámite en CESCO. La sentencia puede provenir de una tarjeta de crédito, del balance de un automóvil entregado años atrás o de una obligación que firmaron o garantizaron para otra persona. Si el automóvil actual es uno de los pocos bienes que poseen, esa anotación puede generar mucho temor. Es importante obtener evidencia del gravamen y de la sentencia para identificar al acreedor, la cantidad reclamada y las alternativas que pueden evaluarse.
 
 ## Documentos útiles para la evaluación
 

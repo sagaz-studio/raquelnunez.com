@@ -10,7 +10,7 @@ meta_description: "Conozca cómo una deuda antigua puede terminar en sentencia y
 
 # Deudas antiguas, sentencias y gravámenes sobre vehículos
 
-Algunas personas creen que una deuda de hace diez o veinte años desapareció porque dejaron de recibir estados de cuenta. Años después intentan vender o traspasar su automóvil y descubren que existe una sentencia o un gravamen relacionado con aquella obligación.
+Algunas personas creen que una deuda de hace diez o veinte años desapareció porque dejaron de recibir estados de cuenta. Puede tratarse de una tarjeta de crédito, del balance de un automóvil entregado cuando eran jóvenes o de una obligación que firmaron o garantizaron para otra persona. Años después intentan vender o traspasar su automóvil actual y descubren que existe una sentencia o un gravamen relacionado con aquella obligación.
 
 El problema no siempre comienza en CESCO. Con frecuencia empezó mucho antes, cuando el acreedor presentó una demanda y la persona no compareció al tribunal para conocer la reclamación y hacer valer sus derechos. Este artículo explica por qué no debe ignorar una demanda y qué información conviene revisar antes de pagar una deuda que no comprende.
 
@@ -18,7 +18,7 @@ El problema no siempre comienza en CESCO. Con frecuencia empezó mucho antes, cu
 
 Cuando un acreedor presenta una demanda, existen términos para responder. Si la persona no comparece, el procedimiento puede continuar y el tribunal puede dictar una sentencia. Esa sentencia ofrece al acreedor mecanismos adicionales para intentar cobrar.
 
-No toda reclamación es correcta por el mero hecho de aparecer en una carta. Sin embargo, ignorar los documentos elimina oportunidades para plantear defensas, solicitar información o cuestionar la cantidad dentro del procedimiento correspondiente.
+No toda reclamación es correcta por el mero hecho de aparecer en una carta. Sin embargo, ignorar los documentos elimina oportunidades para plantear defensas, solicitar información o cuestionar la cantidad dentro del procedimiento correspondiente. Haber entregado un vehículo al acreedor tampoco significa necesariamente que cualquier balance restante desapareció.
 
 ## Cómo puede afectar un gravamen al automóvil
 
@@ -52,4 +52,3 @@ Si recibió una demanda, busque orientación antes de que venza el término para
 La Lcda. Raquel Núñez Alicea ofrece orientación sobre quiebras desde Cidra para personas de Aibonito, Comerío, Barranquitas y Aguas Buenas. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
 
 Fuentes generales: [descargue en una quiebra](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/discharge-bankruptcy-bankruptcy-basics) y [protección automática en Capítulo 7](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics). Esta publicación ofrece información general y no sustituye el análisis de una sentencia, gravamen o caso particular.
-

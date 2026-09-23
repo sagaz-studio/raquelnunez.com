@@ -44,7 +44,7 @@ Reúna los estados disponibles de cuentas bancarias y préstamos, escrituras, re
 
 ## Demandas y fechas urgentes
 
-Si recibió una demanda, aviso de embargo, subasta o reposición, lleve el documento completo. Informe la fecha exacta desde la primera llamada. Una consulta no activa la paralización automática; por eso la oficina debe conocer cualquier término urgente.
+Si recibió una demanda, sentencia o aviso de embargo, lleve el documento completo. Informe la fecha exacta desde la primera llamada. Una consulta no activa la paralización automática; por eso la oficina debe conocer cualquier término urgente.
 
 ## Identificación y privacidad
 
