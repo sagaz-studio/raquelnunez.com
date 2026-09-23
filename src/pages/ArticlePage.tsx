@@ -8,7 +8,7 @@ export default function ArticlePage() {
     <a className="skip-link" href="#contenido">Saltar al contenido</a>
     <header className="service-header container"><a href="/" className="office-name">Lcda. Raquel Núñez Alicea<span>Oficina Legal y Notarial · Cidra</span></a><nav aria-label="Navegación principal"><a href="/quiebras/">Quiebras</a><a href="/#servicios">Otros servicios</a><a href="/#contacto">Contacto</a></nav></header>
     <main id="contenido" className="container service-content">
-      <nav aria-label="Ruta de navegación" className="breadcrumbs"><a href="/">Inicio</a> / <a href="/quiebras/">Quiebras</a> / <span aria-current="page">Deudas y quiebra</span></nav>
+      <nav aria-label="Ruta de navegación" className="breadcrumbs"><a href="/">Inicio</a> / <a href="/recursos/">Recursos</a> / <span aria-current="page">Deudas y quiebra</span></nav>
       <span className="section-label">Guía de orientación · Puerto Rico</span>
       <h1>¿Qué deudas puede eliminar una quiebra en Puerto Rico?</h1>
       <p className="service-lead">Una quiebra puede descargar ciertas deudas y detener muchas gestiones de cobro, pero no borra automáticamente todas las obligaciones. El resultado depende del tipo de deuda, las garantías existentes, el capítulo utilizado y las circunstancias particulares del caso.</p>
@@ -27,7 +27,7 @@ export default function ArticlePage() {
 
       <section><h2>Fuentes oficiales y aviso</h2><p>Puede consultar las guías de los Tribunales de Estados Unidos sobre el <a href={dischargeGuide}>descargue</a>, el <a href={chapter7Guide}>Capítulo 7</a> y el <a href={chapter13Guide}>Capítulo 13</a> (en inglés). Esta guía ofrece información general y no constituye asesoramiento legal. Cada caso depende de sus hechos, documentos y requisitos legales.</p></section>
 
-      <nav className="related-services" aria-label="Contenido relacionado"><h2>Continúe su orientación</h2><div className="seo-links"><a href="/quiebras/">Quiebras en la zona central</a><a href="/quiebras/capitulo-7/">Capítulo 7</a><a href="/quiebras/capitulo-13/">Capítulo 13</a><a href="/">Conocer la oficina</a></div></nav>
+      <nav className="related-services" aria-label="Contenido relacionado"><h2>Continúe su orientación</h2><div className="seo-links"><a href="/recursos/">Todos los recursos</a><a href="/quiebras/">Quiebras en la zona central</a><a href="/quiebras/capitulo-7/">Capítulo 7</a><a href="/quiebras/capitulo-13/">Capítulo 13</a><a href="/">Conocer la oficina</a></div></nav>
     </main>
     <footer className="container service-footer"><p>Lcda. Raquel Núñez Alicea · Núm. de Licencia TSPR: 17881 · Publicidad Legal</p><p>Somos una agencia de alivio de deudas. Ayudamos a personas a solicitar protección por quiebra bajo el Código de Quiebras de los Estados Unidos.</p><p><a href="/politica-de-privacidad/">Privacidad</a> · <a href="/terminos-de-uso/">Términos de uso</a> · <a href="/accesibilidad/">Accesibilidad</a></p></footer>
   </div>;

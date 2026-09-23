@@ -628,6 +628,7 @@ function Blog({ lang }: { lang: "es" | "en" }) {
             </article>
           ))}
         </div>
+        <div style={{ marginTop: "2rem", textAlign: "center" }}><a className="btn-primary" href="/recursos/">{lang === "es" ? "Ver todos los recursos" : "View all resources"}</a></div>
       </div>
     </section>
   );
