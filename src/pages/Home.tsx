@@ -620,7 +620,7 @@ function Blog({ lang }: { lang: "es" | "en" }) {
                 </div>
                 <h3 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "1.35rem", fontWeight: 600, color: "#1B3A4B", lineHeight: 1.3, marginBottom: "0.75rem" }}>{post.title}</h3>
                 <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.95rem", color: "#1B3A4B", opacity: 0.7, lineHeight: 1.7, marginBottom: "1.5rem" }}>{post.excerpt}</p>
-                <a href={["/quiebras/", "/herencias/", "/notaria-escrituras/"][i]}
+                <a href={["/recursos/quiebras/que-deudas-elimina-quiebra-puerto-rico/", "/herencias/", "/notaria-escrituras/"][i]}
                   style={{ fontFamily: "'EB Garamond', serif", fontSize: "0.82rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#1B3A4B", borderBottom: "1px solid #B8962E", paddingBottom: "2px" }}>
                   {lang === "es" ? "Leer más →" : "Read more →"}
                 </a>
