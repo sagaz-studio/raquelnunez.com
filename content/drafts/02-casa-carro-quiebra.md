@@ -5,56 +5,53 @@ title: "¿Qué pasa con la casa y el carro al radicar quiebra?"
 slug: "casa-carro-quiebra-puerto-rico"
 primary_keyword: "casa y carro en quiebra Puerto Rico"
 secondary_keywords: ["conservar casa en quiebra", "automóvil Capítulo 7", "hipoteca Capítulo 13"]
-meta_description: "Conozca qué factores se evalúan para determinar qué ocurre con la casa y el automóvil al radicar una quiebra en Puerto Rico."
+meta_description: "Conozca qué se revisa para determinar qué ocurre con la casa y el automóvil al radicar una quiebra en Puerto Rico."
 ---
 
 # ¿Qué pasa con la casa y el carro al radicar quiebra?
 
-Muchas personas posponen una consulta de quiebras por miedo a perder su casa o su automóvil. La respuesta no puede determinarse solamente por el nombre del capítulo. Depende del valor del bien, el balance del préstamo, los atrasos, las exenciones aplicables y la capacidad para continuar pagando.
+Muchas personas tienen la misma pregunta: “¿Voy a perder mi casa o mi carro?”
 
-Antes de tomar una decisión, conviene distinguir entre la deuda personal y el gravamen que garantiza el préstamo.
+No existe una sola respuesta para todo el mundo. La abogada debe revisar el valor del bien, cuánto dinero se debe, si los pagos están al día y qué protección permite la ley.
 
-La idea general es sencilla: cuando una persona desea conservar un bien que garantiza una deuda, normalmente tiene que atender esa obligación conforme a la alternativa aplicable. La quiebra no convierte la casa o el automóvil en un bien gratuito. Lo que sí puede ofrecer es una estructura legal para evaluar la deuda, proteger ciertos bienes y, bajo el capítulo adecuado, organizar pagos. Los términos exactos dependen del caso.
+## La quiebra no regala la casa ni el carro
 
-## Una quiebra no elimina automáticamente el gravamen
+Una casa puede tener una hipoteca. Un carro puede tener un préstamo. Esas deudas están unidas al bien.
 
-Cuando una hipoteca o un préstamo de automóvil está garantizado por un bien, el acreedor conserva ciertos derechos sobre esa propiedad. Un descargue puede afectar la responsabilidad personal por una deuda, pero no necesariamente elimina un gravamen válido.
+Si usted quiere conservar el bien, normalmente debe atender la deuda. La forma de hacerlo depende del tipo de quiebra y de su situación.
 
-Por eso, una evaluación debe considerar cuánto vale el bien, cuánto se debe, si existen atrasos y cuál es la intención de la persona respecto a la propiedad.
+La quiebra puede ayudar a organizar las deudas. También puede proteger ciertos bienes. Pero no convierte la casa o el carro en bienes gratuitos.
 
-## La vivienda en un Capítulo 7
+## ¿Qué pasa en un Capítulo 7?
 
-En un [Capítulo 7](/quiebras/capitulo-7/), el síndico evalúa los bienes y las exenciones reclamadas. La existencia de una hipoteca, el valor neto de la propiedad y las exenciones disponibles son factores importantes. También debe analizarse si los pagos están al día y si la persona puede mantenerlos.
+En un [Capítulo 7](/quiebras/capitulo-7/), una persona llamada síndico revisa los bienes. También revisa qué bienes están protegidos por la ley. Esa protección se conoce como exención.
 
-No se debe prometer que una vivienda quedará protegida sin revisar la escritura, la hipoteca, el balance y el valor de la propiedad. Cada caso requiere un análisis individual.
+Para estudiar la casa o el carro se necesita saber cuánto vale, cuánto se debe y si los pagos están al día. También hay que saber qué exención puede usarse.
 
-## La vivienda en un Capítulo 13
+No se debe prometer que un bien se conservará antes de ver los números y los documentos.
 
-El [Capítulo 13](/quiebras/capitulo-13/) permite a una persona con ingresos regulares proponer un plan de pagos, generalmente de tres a cinco años. En circunstancias apropiadas, el plan puede atender atrasos hipotecarios mientras se mantienen los pagos corrientes.
+## ¿Qué pasa en un Capítulo 13?
 
-El tribunal debe confirmar el plan y la persona tiene que cumplir con los pagos establecidos. Presentar un Capítulo 13 no convierte una hipoteca en una obligación opcional ni garantiza conservar la residencia si el plan no es viable.
+El [Capítulo 13](/quiebras/capitulo-13/) usa un plan de pagos. El plan normalmente dura de tres a cinco años.
 
-## Qué se evalúa respecto al automóvil
+En algunos casos, el plan permite pagar poco a poco atrasos de la hipoteca. La persona también debe mantener los nuevos pagos al día. El tribunal tiene que aprobar el plan.
 
-Para analizar un vehículo, normalmente se revisan:
+El Capítulo 13 puede ayudar a una persona a conservar bienes. Pero la persona debe poder cumplir con los pagos del plan.
 
-- El valor aproximado del automóvil.
-- El balance y los atrasos del préstamo.
-- El pago mensual y la tasa de interés.
-- La necesidad del vehículo para trabajar o atender a la familia.
-- La capacidad para continuar pagando.
-- Las opciones disponibles bajo el capítulo correspondiente.
+## ¿Y si el carro está pago pero aparece un gravamen?
 
-También pueden existir gravámenes relacionados con sentencias por otras deudas, incluso sobre vehículos que ya estaban pagos. Algunas personas se enteran cuando intentan vender, traspasar o realizar un trámite en CESCO. La sentencia puede provenir de una tarjeta de crédito, del balance de un automóvil entregado años atrás o de una obligación que firmaron o garantizaron para otra persona. Si el automóvil actual es uno de los pocos bienes que poseen, esa anotación puede generar mucho temor. Es importante obtener evidencia del gravamen y de la sentencia para identificar al acreedor, la cantidad reclamada y las alternativas que pueden evaluarse.
+Un carro pago puede tener un gravamen por otra deuda. Puede ser una tarjeta vieja, el balance de otro carro entregado hace años o una deuda que usted firmó para ayudar a alguien.
 
-## Documentos útiles para la evaluación
+La persona muchas veces descubre el gravamen cuando intenta vender o traspasar el carro. Si ese carro es uno de sus pocos bienes, la noticia causa mucho miedo.
 
-Tenga disponible el estado hipotecario, información del préstamo del automóvil, escrituras, avisos de cobro, tasaciones que ya posea y evidencia de ingresos y gastos. No es necesario ordenar una tasación antes de hablar con la oficina, salvo que se le solicite.
+La abogada necesita ver la demanda, la sentencia y la información del gravamen. Así puede explicar qué ocurrió y qué opciones se pueden evaluar.
 
-También debe informar si existen otras propiedades, vehículos, copropietarios, demandas, embargos o presentaciones de quiebra anteriores.
+## Qué debe llevar a la consulta
 
-## Evalúe antes de asumir que perderá sus bienes
+Lleve el estado de la hipoteca, la información del carro, las cartas de cobro, las demandas y las sentencias. También lleve evidencia de ingresos y gastos.
 
-El propósito de una consulta es analizar los datos reales, explicar los riesgos y comparar las alternativas. La Lcda. Raquel Núñez Alicea atiende asuntos de quiebra desde Cidra para la zona central de Puerto Rico. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
+No necesita tener todo perfecto para llamar. La oficina puede decirle qué falta.
 
-Puede ampliar esta información en las guías oficiales de los Tribunales de Estados Unidos sobre [Capítulo 7](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics) y [Capítulo 13](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-13-bankruptcy-basics). Esta publicación es informativa y no constituye asesoramiento legal.
+La Lcda. Raquel Núñez Alicea ofrece consultas de quiebra desde Cidra para la zona central de Puerto Rico. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637**.
+
+Fuentes oficiales: [Capítulo 7](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics) y [Capítulo 13](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-13-bankruptcy-basics). Esta información es general. No sustituye una consulta legal.

@@ -5,65 +5,54 @@ title: "¿Una quiebra puede detener un embargo y otros cobros?"
 slug: "quiebra-detener-embargo-cobros-puerto-rico"
 primary_keyword: "quiebra detener embargo Puerto Rico"
 secondary_keywords: ["sentencia por deuda antigua", "paralización automática", "abogada de quiebras Cidra"]
-meta_description: "Conozca cuándo una quiebra puede detener temporalmente cobros o embargos relacionados con deudas y por qué la fecha de presentación importa."
+meta_description: "Conozca cuándo una quiebra puede detener temporalmente cobros o embargos relacionados con deudas y por qué la fecha importa."
 ---
 
 # ¿Una quiebra puede detener un embargo y otros cobros?
 
-Cuando una persona recibe una demanda de cobro, un aviso de embargo o descubre un gravamen relacionado con una deuda antigua, el tiempo importa. Presentar una petición de quiebra generalmente activa una protección conocida como **paralización automática**. Esa protección puede suspender muchas gestiones de cobro, pero tiene excepciones y límites. Una consulta con una abogada, por sí sola, no la activa.
+Recibir una demanda o un aviso de embargo da miedo. Muchas personas no saben qué hacer. Algunas pagan porque se sienten presionadas. Otras guardan el papel y esperan que el problema desaparezca.
 
-Esta guía explica qué significa la paralización automática, cuándo comienza y qué información debe comunicar inmediatamente a la oficina si existe una fecha urgente.
+Ignorar el problema puede hacerlo más grande. Una quiebra puede detener muchos cobros por un tiempo. Pero hay reglas y excepciones. Por eso es importante hablar con una abogada.
 
-## Un proceso que puede sentirse intimidante
+## ¿Qué protección comienza con la quiebra?
 
-Los acreedores y las agencias de cobro trabajan estos asuntos todos los días. Para la persona que recibe la llamada o la demanda, en cambio, puede ser la primera vez. Es común sentirse atropellado, contestar por miedo o hacer pagos sin comprender qué se está reclamando.
+Al presentar la quiebra, normalmente comienza una protección llamada **paralización automática**. Es como una señal de alto para muchos acreedores.
 
-Buscar representación permite que la persona conozca sus derechos y que las comunicaciones relacionadas con el asunto se canalicen correctamente. Cuando ya existe una relación de abogado y cliente, informe al acreedor que está representado y proporcione la información de su abogada. No ignore documentos judiciales ni asuma que mencionar una posible quiebra detiene los términos del tribunal.
+Mientras esa protección esté activa, muchos acreedores no pueden:
 
-## ¿Qué es la paralización automática?
+- Seguir llamando para cobrar.
+- Comenzar o continuar ciertas demandas.
+- Embargar algunos bienes o ingresos.
+- Enviar cartas exigiendo pagos.
 
-La paralización automática surge, por regla general, cuando se presenta la petición de quiebra. Puede impedir que los acreedores continúen ciertas demandas, llamadas y gestiones de cobro relacionadas con deudas anteriores a la presentación. También puede suspender determinados procedimientos de ejecución o embargo mientras la protección esté vigente.
+La protección no cubre todas las situaciones. Un acreedor también puede pedir permiso al tribunal para continuar. Cada caso debe revisarse por separado.
 
-No todas las acciones quedan paralizadas. La ley reconoce excepciones y un acreedor puede solicitar al tribunal que levante la paralización bajo determinadas circunstancias. Además, presentaciones anteriores, órdenes existentes y la etapa en que se encuentre un procedimiento pueden afectar la protección disponible.
+## Una llamada no detiene el embargo
 
-## La fecha de presentación puede ser decisiva
+Llamar a una abogada no detiene un cobro. Separar una cita tampoco lo detiene. La protección normalmente comienza cuando el caso se presenta en el tribunal.
 
-Llamar a una oficina, separar una cita o comenzar a reunir documentos no detiene una gestión de cobro ni un embargo. La protección generalmente comienza con la presentación del caso ante el tribunal.
+Si recibió documentos, diga desde la primera llamada quién está cobrando, cuánto reclama, qué documento recibió y cuál es la fecha límite. También diga si ya existe una sentencia o un embargo.
 
-Si recibió un documento con fecha, informe desde la primera llamada:
+No espere hasta el último día. La abogada necesita tiempo para leer los documentos y explicarle sus opciones.
 
-- Qué tipo de aviso recibió.
-- La fecha de la demanda, sentencia o embargo.
-- El nombre del acreedor.
-- Si ha presentado una quiebra anteriormente.
-- Qué propiedad está involucrada.
+## ¿Cómo una deuda vieja se convierte en sentencia?
 
-No espere a que se ejecute un embargo para buscar orientación. La oficina necesita tiempo para revisar la información, identificar documentos pendientes y determinar si una presentación es apropiada.
+Una deuda puede comenzar con una tarjeta de crédito. También puede venir de un automóvil que usted entregó hace años. Otra posibilidad es que usted firmó una deuda para ayudar a otra persona.
 
-## Cuando una deuda antigua termina en una sentencia
+El acreedor puede presentar una demanda. Si usted no responde, el tribunal puede dictar una sentencia. Una sentencia es una decisión del tribunal que dice que existe una cantidad por pagar.
 
-Una deuda de muchos años no debe ignorarse solamente por su antigüedad. Si el acreedor presenta una demanda y la persona no comparece para hacer valer sus derechos, el tribunal puede dictar una sentencia. A partir de ahí pueden surgir nuevas gestiones de cobro y reclamaciones sobre bienes.
+Después, el acreedor puede intentar cobrar usando esa sentencia. En algunos casos puede aparecer un gravamen sobre un vehículo. La persona muchas veces se entera cuando intenta venderlo o hacer un trámite.
 
-En la práctica, algunas personas descubren el problema cuando intentan vender o realizar un trámite relacionado con su automóvil y aparece un gravamen. Antes de pagar miles de dólares por una deuda que no comprende, conviene obtener los documentos, verificar el origen de la obligación y evaluar todas las alternativas. Haber comenzado a pagar no significa necesariamente que la situación financiera completa quedó resuelta.
+## No pague sin entender primero
 
-## Deudas que la persona ya casi no recuerda
+La presión puede hacer que una persona pague miles de dólares. Antes de aceptar un pago, pida los documentos. Necesita saber de dónde salió la deuda, quién cobra ahora, cómo calcularon la cantidad y qué pagos ya se hicieron.
 
-El cobro puede provenir de una tarjeta utilizada años atrás, del balance pendiente de un automóvil que fue entregado al acreedor o de una obligación que la persona firmó o garantizó para ayudar a alguien más. Entregar un vehículo no siempre significa que desapareció cualquier balance restante. De igual manera, dejar de recibir estados de cuenta no confirma que la obligación fue eliminada.
+Pagar una sola deuda no siempre resuelve el problema completo. Conviene revisar todas las deudas antes de usar los pocos ahorros disponibles.
 
-Para evaluar la situación hacen falta los documentos disponibles: contrato, estados, cartas de cobro, demanda, sentencia y evidencia de pagos. La antigüedad de la deuda, las actuaciones judiciales y la identidad del acreedor actual pueden ser relevantes.
+## Puede pedir ayuda
 
-## ¿Puede detenerse una subasta de la residencia?
+Cuando existe una relación de abogado y cliente, la persona puede informar al cobrador que tiene representación. La abogada puede explicar cómo deben manejarse las comunicaciones. Esto no significa que se pueden ignorar documentos del tribunal.
 
-Una presentación oportuna puede suspender temporalmente una ejecución o subasta, pero no garantiza que la persona conservará su vivienda. El acreedor puede solicitar autorización para continuar y la persona tendrá que atender los pagos y requisitos aplicables.
+La Lcda. Raquel Núñez Alicea ofrece orientación sobre quiebras desde Cidra para personas de Aibonito, Comerío, Barranquitas y Aguas Buenas. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637**.
 
-El [Capítulo 13](/quiebras/capitulo-13/) puede permitir que una persona con ingresos regulares proponga un plan para atender atrasos hipotecarios durante un periodo, sujeto a aprobación y cumplimiento. El [Capítulo 7](/quiebras/capitulo-7/) funciona de manera diferente y requiere analizar los bienes, las exenciones y las obligaciones garantizadas.
-
-## Qué llevar a la consulta
-
-Para evaluar una situación urgente, tenga disponibles el aviso recibido, la demanda, el número del caso, el contrato o estado de cuenta y las fechas señaladas. También debe informar sus ingresos, gastos, propiedades y presentaciones de quiebra anteriores.
-
-La Lcda. Raquel Núñez Alicea ofrece orientación sobre quiebras desde Cidra para personas de Aibonito, Comerío, Barranquitas y Aguas Buenas. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
-
-## Fuentes y aviso
-
-La información general sobre la paralización automática está disponible en las guías de los [Tribunales de Estados Unidos](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics). Esta publicación es informativa y no sustituye la evaluación de los hechos y documentos de un caso particular.
+Fuente general: [información oficial sobre Capítulo 7](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics). Esta información es general. No sustituye una consulta legal.

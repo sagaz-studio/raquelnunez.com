@@ -10,54 +10,54 @@ meta_description: "Prepare su consulta de quiebra: conozca qué información sob
 
 # Documentos para una consulta de quiebra en Puerto Rico
 
-No necesita llegar a la primera consulta con un expediente perfecto. Sin embargo, organizar la información que ya posee permite identificar con mayor rapidez sus deudas, ingresos, bienes y fechas importantes.
+El proceso de quiebra puede dar miedo. Tiene palabras nuevas y muchos documentos. Usted no tiene que entenderlo todo antes de llamar.
 
-Esta lista sirve como orientación inicial. La oficina puede solicitar documentos adicionales según las circunstancias y el capítulo que se evalúe.
+Tampoco necesita tener una carpeta perfecta. Lleve lo que ya tiene. La oficina le dirá qué documentos faltan.
 
-El proceso puede resultar intimidante porque utiliza términos desconocidos y los acreedores suelen comunicarse con insistencia. La consulta sirve para ordenar la situación y entender qué ocurre primero, qué puede esperar y cuáles comunicaciones requieren atención inmediata.
+## Prepare una lista de sus deudas
 
-## Información sobre sus deudas
+Escriba el nombre de cada persona o compañía a la que debe dinero. Incluya tarjetas, préstamos, hipoteca, carro, contribuciones, préstamos estudiantiles, sentencias y cuentas en cobro.
 
-Prepare una lista de acreedores con balances aproximados. Incluya tarjetas de crédito, préstamos personales, hipoteca, automóvil, deudas contributivas, préstamos estudiantiles, sentencias y cualquier deuda en cobro.
+Si no conoce la cantidad exacta, escriba un número aproximado. No deje fuera una deuda porque es vieja.
 
-Lleve estados de cuenta recientes, cartas de agencias de cobro y documentos judiciales. Si desconoce un balance exacto, no retrase la consulta: anote el acreedor y la mejor estimación disponible.
+## Lleve las cartas y demandas
 
-Incluya también deudas antiguas. Una obligación de hace diez o veinte años puede haber producido una demanda, una sentencia o un gravamen. Si pagó cantidades importantes sin comprender el origen de la reclamación, lleve los recibos y acuerdos disponibles.
+Guarde las cartas de cobro. Lleve cualquier demanda, sentencia o aviso de embargo.
 
-## Evidencia de ingresos
+Una deuda vieja todavía puede causar problemas. Puede venir de una tarjeta, de un carro entregado hace años o de algo que usted firmó para otra persona.
 
-Conviene reunir talonarios o comprobantes de pago recientes, información de trabajo por cuenta propia, beneficios recibidos y otras fuentes de ingreso del hogar. Si los ingresos varían, identifique los meses que fueron distintos y por qué.
+Si ya pagó dinero, lleve los recibos. Si firmó un acuerdo, lleve una copia.
 
-Los comprobantes de ingresos son importantes tanto para evaluar las alternativas como para cumplir con requisitos posteriores. El Programa de Síndicos de Estados Unidos indica que, para la reunión de acreedores, pueden solicitarse evidencia de ingreso actual y la declaración contributiva más reciente aplicable.
+## Muestre cuánto dinero recibe
 
-## Gastos mensuales
+Lleve sus talonarios o comprobantes de pago recientes. Informe también otros ingresos que recibe el hogar.
 
-Prepare una relación realista de vivienda, alimentos, utilidades, transportación, seguros, medicamentos, cuido y otros gastos del hogar. No reduzca ni aumente cantidades para intentar producir un resultado. La información debe ser completa y exacta.
+Si trabaja por su cuenta, reúna la información que muestra cuánto recibe y cuáles gastos paga para trabajar.
 
-Puede utilizar estados bancarios y facturas para recordar pagos que no ocurren todos los meses.
+## Anote sus gastos
 
-## Bienes y cuentas
+Prepare una lista sencilla de renta o hipoteca, agua, luz, alimentos, carro, gasolina, seguros, medicinas y cuido.
 
-Informe todas las propiedades, vehículos, cuentas bancarias, inversiones, participaciones en negocios y reclamaciones que pueda tener. También deben considerarse bienes compartidos, herencias pendientes y dinero que otras personas le deban.
+Use cantidades reales. La abogada necesita conocer su situación verdadera.
 
-Reúna los estados disponibles de cuentas bancarias y préstamos, escrituras, registros de vehículos y pólizas de seguro. No transfiera ni regale bienes con el propósito de ocultarlos antes de una consulta.
+## Informe todos sus bienes
 
-## Demandas y fechas urgentes
+Debe informar todo lo que tiene. Esto incluye casas, terrenos, carros, cuentas bancarias, inversiones y negocios.
 
-Si recibió una demanda, sentencia o aviso de embargo, lleve el documento completo. Informe la fecha exacta desde la primera llamada. Una consulta no activa la paralización automática; por eso la oficina debe conocer cualquier término urgente.
+También debe mencionar una herencia pendiente o dinero que otra persona le debe. Ocultar bienes puede causar problemas graves.
 
-## Identificación y privacidad
+## Proteja su información privada
 
-La identificación y la evidencia del número de Seguro Social forman parte de requisitos posteriores del proceso. Coordine con la oficina el método seguro para presentar documentos sensibles. Evite enviar por WhatsApp números completos de Seguro Social, cuentas bancarias o documentos contributivos sin instrucciones.
+La oficina puede necesitar identificación, información contributiva y evidencia del Seguro Social. Pregunte cómo entregar esos documentos de manera segura.
 
-## Otros requisitos del proceso
+No envíe por WhatsApp el número completo de Seguro Social o de una cuenta bancaria sin recibir instrucciones.
 
-Las personas generalmente deben completar orientación crediticia con un proveedor aprobado antes de presentar una quiebra, salvo excepciones limitadas. El curso de educación del deudor ocurre después de la presentación y es un requisito separado para recibir el descargue, sujeto a las excepciones aplicables.
+## Si existe una fecha, dígalo de inmediato
 
-No compre cursos ni servicios antes de recibir instrucciones sobre proveedores aprobados y el momento correcto.
+No espere hasta la cita para mencionar una demanda o un embargo. Diga la fecha desde la primera llamada.
 
-## Coordine su consulta
+Llamar a la oficina no detiene un cobro. La abogada necesita revisar el caso y explicarle los próximos pasos.
 
-La Lcda. Raquel Núñez Alicea ofrece orientación sobre [Capítulo 7](/quiebras/capitulo-7/) y [Capítulo 13](/quiebras/capitulo-13/) desde Cidra para Aibonito, Comerío, Barranquitas y Aguas Buenas. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
+La Lcda. Raquel Núñez Alicea ofrece orientación sobre [Capítulo 7](/quiebras/capitulo-7/) y [Capítulo 13](/quiebras/capitulo-13/) desde Cidra. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637**.
 
-Fuentes oficiales: [reunión de acreedores y documentos](https://www.justice.gov/ust/moc) y [orientación crediticia y educación del deudor](https://www.justice.gov/ust/credit-counseling-debtor-education-information). Esta publicación contiene información general y no sustituye la evaluación legal individual.
+Fuentes oficiales: [documentos para la reunión de acreedores](https://www.justice.gov/ust/moc) y [orientación crediticia](https://www.justice.gov/ust/credit-counseling-debtor-education-information). Esta información es general. No sustituye una consulta legal.
