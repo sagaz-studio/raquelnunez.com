@@ -14,6 +14,8 @@ Muchas personas posponen una consulta de quiebras por miedo a perder su casa o s
 
 Antes de tomar una decisión, conviene distinguir entre la deuda personal y el gravamen que garantiza el préstamo.
 
+La idea general es sencilla: cuando una persona desea conservar un bien que garantiza una deuda, normalmente tiene que atender esa obligación conforme a la alternativa aplicable. La quiebra no convierte la casa o el automóvil en un bien gratuito. Lo que sí puede ofrecer es una estructura legal para evaluar la deuda, proteger ciertos bienes y, bajo el capítulo adecuado, organizar pagos. Los términos exactos dependen del caso.
+
 ## Una quiebra no elimina automáticamente el gravamen
 
 Cuando una hipoteca o un préstamo de automóvil está garantizado por un bien, el acreedor conserva ciertos derechos sobre esa propiedad. Un descargue puede afectar la responsabilidad personal por una deuda, pero no necesariamente elimina un gravamen válido.
@@ -45,6 +47,8 @@ Para analizar un vehículo, normalmente se revisan:
 
 Si existe una amenaza de reposición o el vehículo ya fue reposeído, debe informarlo al coordinar la consulta. Las fechas y actuaciones previas pueden cambiar las alternativas disponibles.
 
+También pueden existir gravámenes relacionados con sentencias de cobro, incluso sobre vehículos que ya estaban pagos. Algunas personas se enteran cuando intentan vender, traspasar o realizar un trámite en CESCO. Si el automóvil es uno de los pocos bienes que posee, esa anotación puede generar mucho temor. Es importante obtener evidencia del gravamen y de la sentencia para identificar al acreedor, la cantidad reclamada y las alternativas que pueden evaluarse.
+
 ## Documentos útiles para la evaluación
 
 Tenga disponible el estado hipotecario, información del préstamo del automóvil, escrituras, avisos de cobro, tasaciones que ya posea y evidencia de ingresos y gastos. No es necesario ordenar una tasación antes de hablar con la oficina, salvo que se le solicite.
@@ -56,4 +60,3 @@ También debe informar si existen otras propiedades, vehículos, copropietarios,
 El propósito de una consulta es analizar los datos reales, explicar los riesgos y comparar las alternativas. La Lcda. Raquel Núñez Alicea atiende asuntos de quiebra desde Cidra para la zona central de Puerto Rico. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
 
 Puede ampliar esta información en las guías oficiales de los Tribunales de Estados Unidos sobre [Capítulo 7](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics) y [Capítulo 13](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-13-bankruptcy-basics). Esta publicación es informativa y no constituye asesoramiento legal.
-

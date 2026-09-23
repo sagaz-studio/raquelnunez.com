@@ -14,6 +14,12 @@ Cuando una persona recibe una demanda de cobro, un aviso de embargo, una fecha d
 
 Esta guía explica qué significa la paralización automática, cuándo comienza y qué información debe comunicar inmediatamente a la oficina si existe una fecha urgente.
 
+## Un proceso que puede sentirse intimidante
+
+Los acreedores y las agencias de cobro trabajan estos asuntos todos los días. Para la persona que recibe la llamada o la demanda, en cambio, puede ser la primera vez. Es común sentirse atropellado, contestar por miedo o hacer pagos sin comprender qué se está reclamando.
+
+Buscar representación permite que la persona conozca sus derechos y que las comunicaciones relacionadas con el asunto se canalicen correctamente. Cuando ya existe una relación de abogado y cliente, informe al acreedor que está representado y proporcione la información de su abogada. No ignore documentos judiciales ni asuma que mencionar una posible quiebra detiene los términos del tribunal.
+
 ## ¿Qué es la paralización automática?
 
 La paralización automática surge, por regla general, cuando se presenta la petición de quiebra. Puede impedir que los acreedores continúen ciertas demandas, llamadas y gestiones de cobro relacionadas con deudas anteriores a la presentación. También puede suspender procedimientos de ejecución, subasta o reposición mientras la protección esté vigente.
@@ -33,6 +39,12 @@ Si recibió un documento con fecha, informe desde la primera llamada:
 - Qué propiedad está involucrada.
 
 No espere a la víspera de una subasta para buscar orientación. La oficina necesita tiempo para revisar la información, identificar documentos pendientes y determinar si una presentación es apropiada.
+
+## Cuando una deuda antigua termina en una sentencia
+
+Una deuda de muchos años no debe ignorarse solamente por su antigüedad. Si el acreedor presenta una demanda y la persona no comparece para hacer valer sus derechos, el tribunal puede dictar una sentencia. A partir de ahí pueden surgir nuevas gestiones de cobro y reclamaciones sobre bienes.
+
+En la práctica, algunas personas descubren el problema cuando intentan vender o realizar un trámite relacionado con su automóvil y aparece un gravamen. Antes de pagar miles de dólares por una deuda que no comprende, conviene obtener los documentos, verificar el origen de la obligación y evaluar todas las alternativas. Haber comenzado a pagar no significa necesariamente que la situación financiera completa quedó resuelta.
 
 ## ¿Qué ocurre con una reposición de automóvil?
 
@@ -55,4 +67,3 @@ La Lcda. Raquel Núñez Alicea ofrece orientación sobre quiebras desde Cidra pa
 ## Fuentes y aviso
 
 La información general sobre la paralización automática está disponible en las guías de los [Tribunales de Estados Unidos](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics). Esta publicación es informativa y no sustituye la evaluación de los hechos y documentos de un caso particular.
-

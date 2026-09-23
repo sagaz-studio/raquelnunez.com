@@ -8,6 +8,7 @@ Los artículos se publicarán cada dos miércoles para permitir que Google rastr
 | 7 de octubre de 2026 | ¿Una quiebra puede detener un embargo o una reposición? | Borrador listo |
 | 21 de octubre de 2026 | ¿Qué pasa con la casa y el carro al radicar quiebra? | Borrador listo |
 | 4 de noviembre de 2026 | Documentos para una consulta de quiebra en Puerto Rico | Borrador listo |
+| 18 de noviembre de 2026 | Deudas antiguas, sentencias y gravámenes sobre vehículos | Borrador listo |
 
 ## Distribución de cada artículo
 

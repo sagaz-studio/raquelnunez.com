@@ -14,11 +14,15 @@ No necesita llegar a la primera consulta con un expediente perfecto. Sin embargo
 
 Esta lista sirve como orientación inicial. La oficina puede solicitar documentos adicionales según las circunstancias y el capítulo que se evalúe.
 
+El proceso puede resultar intimidante porque utiliza términos desconocidos y los acreedores suelen comunicarse con insistencia. La consulta sirve para ordenar la situación y entender qué ocurre primero, qué puede esperar y cuáles comunicaciones requieren atención inmediata.
+
 ## Información sobre sus deudas
 
 Prepare una lista de acreedores con balances aproximados. Incluya tarjetas de crédito, préstamos personales, hipoteca, automóvil, deudas contributivas, préstamos estudiantiles, sentencias y cualquier deuda en cobro.
 
 Lleve estados de cuenta recientes, cartas de agencias de cobro y documentos judiciales. Si desconoce un balance exacto, no retrase la consulta: anote el acreedor y la mejor estimación disponible.
+
+Incluya también deudas antiguas. Una obligación de hace diez o veinte años puede haber producido una demanda, una sentencia o un gravamen. Si pagó cantidades importantes sin comprender el origen de la reclamación, lleve los recibos y acuerdos disponibles.
 
 ## Evidencia de ingresos
 
@@ -57,4 +61,3 @@ No compre cursos ni servicios antes de recibir instrucciones sobre proveedores a
 La Lcda. Raquel Núñez Alicea ofrece orientación sobre [Capítulo 7](/quiebras/capitulo-7/) y [Capítulo 13](/quiebras/capitulo-13/) desde Cidra para Aibonito, Comerío, Barranquitas y Aguas Buenas. La consulta inicial de quiebras es gratuita. Llame al **939-373-6637** para coordinar.
 
 Fuentes oficiales: [reunión de acreedores y documentos](https://www.justice.gov/ust/moc) y [orientación crediticia y educación del deudor](https://www.justice.gov/ust/credit-counseling-debtor-education-information). Esta publicación contiene información general y no sustituye la evaluación legal individual.
-
